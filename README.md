@@ -4,7 +4,6 @@ Welcome to the Python Data Structures and Algorithms repository! This repository
 
 ## Table of Contents
 
-- [Complexity](#complexity)
 - [Dynamic Arrays](#dynamic-arrays)
 - [Stacks](#stacks)
 - [Queues](#queues)
@@ -13,10 +12,6 @@ Welcome to the Python Data Structures and Algorithms repository! This repository
 - [Sorting](#sorting)
 - [Portfolio](#portfolio)
 - [Contact](#contact)
-
-## Complexity
-
-Understanding the time and space complexity of algorithms is crucial for efficient programming. In this section, we explore Big O notation and analyze the complexity of common algorithms.
 
 ## Dynamic Arrays
 
