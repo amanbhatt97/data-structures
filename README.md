@@ -11,9 +11,8 @@ Welcome to the Python Data Structures and Algorithms repository! This repository
 - [Hashing](#hashing)
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Portfolio](#portfolio)
+- [Contact](#contact)
 
 ## Complexity
 
